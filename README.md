@@ -1,5 +1,5 @@
 # Room based chat application
-Simple chat application where users can chat in rooms by joining room or creating new one.
+Simple Flutter chat application where users can chat in rooms by joining them or creating new one.
 
 # Screenshots
 
